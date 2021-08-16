@@ -1,0 +1,26 @@
+body{
+
+    background-color: cadetblue;
+}
+
+.heading{
+
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+  }
+
+  span
+{
+  font-size: 30px;
+}
+
+.green{
+
+  border-radius: 10px;
+}
+
+#pred{
+
+  border-radius: 10px;
+}
